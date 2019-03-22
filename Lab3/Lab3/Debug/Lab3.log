@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ryan\source\repos\lab3\lab3\source.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab3.vcxproj -> C:\Users\Ryan\source\repos\Lab3\Debug\Lab3.exe
